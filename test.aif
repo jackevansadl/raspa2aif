@@ -1,0 +1,26 @@
+data_raspa2aif
+_audit_aif_version 6acf6ef
+_exptl_operator theochem3
+_simltn_date 2023-02-27T16:05:43.333333248
+_simltn_code RASPA-2.0.47
+_exptl_method GCMC
+_exptl_adsorptive methane
+_exptl_temperature 300.000000
+_simltn_forcefield_adsorbent ExampleZeolitesForceField
+_adsnt_material_id MFI_SI
+_units_temperature K
+_units_energy kJ/mol
+_units_loading mol/kg
+_units_pressure Pa
+
+loop_
+_adsorp_pressure
+_adsorp_amount_absolute
+_adsorp_amount_absolute_error
+_adsorp_amount_excess
+_adsorp_amount_excess_error
+_adsorp_enthalpy
+_adsorp_enthalpy_error
+1.00000E+03 6.26030E-03 1.13034E-04 6.19558E-03 1.13034E-04 -1.90019E+01 2.81580E-02
+1.00000E+04 6.04515E-02 8.58465E-04 5.98042E-02 8.58465E-04 -1.90261E+01 6.56050E-02
+1.00000E+05 5.04096E-01 1.20059E-02 4.97610E-01 1.20059E-02 -1.92353E+01 1.22033E-01
